@@ -1,6 +1,4 @@
 
-  
-
 name: Node.js CI
 
 on:
@@ -34,4 +32,3 @@ name: Install dependencies
 
 name: Start application
       run: npm start
-
